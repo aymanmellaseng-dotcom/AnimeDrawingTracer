@@ -3,15 +3,15 @@
     {
       "title": "Lesson 1: Getting Started",
       "videos": [
-        { "title": "Intro to Anime Drawing", "url": "https://www.youtube.com/watch?v=example1" },
-        { "title": "Basic Shapes", "url": "https://www.youtube.com/watch?v=example2" }
+        { "title": "Intro to Anime Drawing", "url": "https://www.youtube.com/watch?v=oEiuULJUSHU" },
+        { "title": "Basic Shapes", "url": "https://www.youtube.com/watch?v=IPnafDDgj6o" }
       ]
     },
     {
       "title": "Lesson 2: Characters",
       "videos": [
-        { "title": "Face Proportions", "url": "https://www.youtube.com/watch?v=example3" },
-        { "title": "Hair and Eyes", "url": "https://www.youtube.com/watch?v=example4" }
+        { "title": "Face Proportions", "url": "https://www.youtube.com/watch?v=IPnafDDgj6o" },
+        { "title": "Hair and Eyes", "url": "https://www.youtube.com/watch?v=IPnafDDgj6o" }
       ]
     }
   ]

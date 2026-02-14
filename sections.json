@@ -1,0 +1,8 @@
+{
+  "sections": [
+    { "id": "animeCharacters", "title": "Anime Characters" },
+    { "id": "animeScenes", "title": "Anime Scenes" },
+    { "id": "animeBackgrounds", "title": "Anime Backgrounds" },
+    { "id": "howToDraw", "title": "How to Draw" }
+  ]
+}
